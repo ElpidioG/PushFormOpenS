@@ -1,0 +1,96 @@
+/* NominaTable.module.css */
+.container {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}
+
+.loading {
+  font-size: 18px;
+  color: #555;
+  margin-top: 10px;
+}
+
+
+.card {
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.card-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+.toggle-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-button:hover {
+  background-color: #0056b3;
+}
+
+.nomina-table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.nomina-table th,
+.nomina-table td {
+  padding: 12px;
+  border: 1px solid #dddddd;
+  text-align: left;
+}
+
+.nomina-table th {
+  background-color: #f2f2f2;
+  color: #333333;
+}
+
+.nomina-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}

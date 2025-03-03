@@ -1,0 +1,43 @@
+<definitions name="NominaService"
+             targetNamespace="http://localhost:3000/soap"
+             xmlns="http://schemas.xmlsoap.org/wsdl/"
+             xmlns:tns="http://localhost:3000/soap"
+             xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+             xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+
+    <!-- Mensajes -->
+    <message name="getNominaRequest"/>
+    <message name="getNominaResponse">
+        <part name="Nomina" type="xsd:string"/>
+    </message>
+
+    <!-- Puerto -->
+    <portType name="NominaPort">
+        <operation name="getNomina">
+            <input message="getNominaRequest"/>
+            <output message="getNominaResponse"/>
+        </operation>
+    </portType>
+
+    <!-- Enlace -->
+    <binding name="NominaBinding" type="NominaPort">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="getNomina">
+            <soap:operation soapAction="getNomina"/>
+            <input>
+                <soap:body use="literal"/>
+            </input>
+            <output>
+                <soap:body use="literal"/>
+            </output>
+        </operation>
+    </binding>
+
+    <!-- Servicio -->
+    <service name="NominaService">
+        <port name="NominaPort" binding="NominaBinding">
+            <soap:address location="http://localhost:3000/soap"/>
+        </port>
+    </service>
+
+</definitions>

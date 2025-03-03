@@ -1,0 +1,19 @@
+E|00102654834|Coordinador Académico|60000.00|Mon May 10 2010 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00104561234|Coordinador de Ciencias Básicas|51000.00|Wed Apr 18 2012 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00109834125|Secretario General|55000.00|Thu Nov 12 2009 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00112567498|Analista de Finanzas|45000.00|Fri Jul 20 2018 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00114589673|Profesor de Historia|38000.00|Thu Jul 10 2014 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00114797139|Profesor de Matemáticas|45000.00|Sat Aug 01 2015 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00115698231|Profesor de Educación Física|42000.00|Mon Oct 30 2017 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00123456781|Rector|150000.00|Sat Jan 01 2005 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00134567892|Vicerrector Académico|120000.00|Sat May 01 2010 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|00145678903|Vicerrector Administrativo|120000.00|Thu Mar 01 2012 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|02300123684|Profesor de Inglés|35000.00|Thu Feb 15 2018 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|22300147896|Encargado de Recursos Humanos|52000.00|Sat Mar 08 2014 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|22300321486|Profesor de Biología|48000.00|Mon Nov 25 2013 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|22300456711|Profesor de Química|32000.00|Fri Mar 05 2021 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|40200178945|Profesor de Filosofía|36000.00|Mon Apr 01 2019 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|40200235714|Administrador Académico|53000.00|Fri Jun 25 2010 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|40200321457|Profesor de Literatura|35000.00|Wed Aug 10 2022 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|40200567891|Encargado de Soporte Técnico|47000.00|Tue Oct 15 2019 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
+E|40200876512|Profesor de Arte|39000.00|Fri Mar 18 2011 00:00:00 GMT-0400 (hora de Bolivia)|Activo|Pendiente
